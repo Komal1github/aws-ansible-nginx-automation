@@ -1,3 +1,4 @@
+
 # AWS EC2 + Ansible Nginx Automation
 
 ## Project Overview
@@ -22,3 +23,4 @@ Laptop → EC2 (Controller) → EC2 (Target)
 
 ## Result
 Web server successfully deployed and accessible via public IP.
+
